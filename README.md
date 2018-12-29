@@ -1,6 +1,6 @@
 # EPFL_MachineLearningLabs
 
-My implementations of the coding exercises in the labs assigned in the EPFL Machine Learning Course.
+My solutions to the lab assignments of EPFL's Machine Learning course.
 
 ## Topics:
 
