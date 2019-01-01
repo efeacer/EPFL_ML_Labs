@@ -19,3 +19,5 @@ My solutions to the lab assignments of EPFL's Machine Learning course.
 `Lab10`: Recommender Systems using Matrix Factorization trained by SGD and Alternating Least Squares 
 
 `Lab12`: Basic Neural Network implementations using PyTorch
+
+`Lab13`: Implementing Feed Forward and Backpropagation for a simple NN using numpy
